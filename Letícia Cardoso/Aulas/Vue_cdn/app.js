@@ -9,4 +9,4 @@ const meuAppVue = {
     
 };
 
-Vue.createApp(meuAppVue).mount("#app");
+Vue.createApp(meuAppVue).mount("#app"); 
